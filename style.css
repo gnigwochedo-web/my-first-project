@@ -1,0 +1,44 @@
+/* General page styling */
+body {
+    background-color: #f8f0f0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 60px 20px;
+}
+
+/* Main heading */
+h1 {
+    color: #c01515;
+    font-size: 36px;
+}
+
+/* Paragraph */
+p {
+    color: #444444;Sets the color of an element's text
+
+ Widely available across major browsers (Baseline since 2015)
+
+Syntax: <color>
+
+MDN Reference
+    font-size: 18px;
+}
+
+/* Button */
+button,
+.button-link {
+    display: inline-block;
+    background-color: #1565c0;
+    color: rgb(255, 255, 255);
+    padding: 12px 25px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    text-decoration: none;
+}
+.button-link:hover {.color-word {
+    color: red;
+}
+    background-color: #a19e0d;
+}
